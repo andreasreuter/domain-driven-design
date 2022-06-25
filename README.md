@@ -21,6 +21,8 @@ You can find the Domain Driven Design in several programming languages in the su
 
 Sometimes a programming language makes it necessary to respect special patterns. This is why the code sometimes deviates.
 
+You can find the Domain Driven Design divided into several subjects in the subfolder `languages/{programming language}/{subject}`. Thereby the subjects can differ with the programming languages.
+
 Like everything, Domain Driven Design continues to evolve. That's why I will tag the code. I will tag the code by [semantic versioning](https://semver.org).
 
 # Code licensing
